@@ -1,1 +1,1 @@
-angular.module('userProfiles', [])
+angular.module('userProfiles', []) //Only put the [] where it is in app.js for future references
